@@ -1,0 +1,418 @@
+{
+  "/Pattern_Stroke_Width": {
+    "min": 0,
+    "max": 10,
+    "value": 1
+  },
+  "/Shape_Spray": {"value": 0},
+  "/Shape_Size_Sin": {"value": 0},
+  "/Trazo_Sin_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.20000000298023224
+  },
+  "/Shape_Spray_Amplitud": {
+    "min": 1,
+    "max": 500,
+    "value": 1
+  },
+  "/Pattern_Spacing_Y_Audio": {"value": 0},
+  "/W": {"text": "1280"},
+  "/Pattern_SizeX": {
+    "min": 0,
+    "max": 150,
+    "value": 10.000000953674316
+  },
+  "/Text_Rotation_Offset": {
+    "min": 0,
+    "max": 500,
+    "value": 30
+  },
+  "/Pattern_SizeY": {
+    "min": 0,
+    "max": 150,
+    "value": 10.000000953674316
+  },
+  "/Shape_Rotation": {"value": 0},
+  "/rand_color_label": {
+    "stringValue": "RGB RAND",
+    "value": 0
+  },
+  "/Text_Spray_Amp": {
+    "min": 0,
+    "max": 500,
+    "value": 50
+  },
+  "/Erase_Size": {
+    "min": 0,
+    "max": 300,
+    "value": 100
+  },
+  "/Text_Spray_Amp_Audio": {"value": 0},
+  "/Load_label": {
+    "stringValue": "LOAD",
+    "value": 0
+  },
+  "/borrar_label": {
+    "stringValue": "CLEAR",
+    "value": 0
+  },
+  "/Trazo_FX_Mode_label": {
+    "stringValue": "FX MODE",
+    "value": 0
+  },
+  "/Trazo_Cap_Mode": {"value": 0},
+  "/Shape_Size_Audio": {"value": 0},
+  "/Text_Rotationn_label": {
+    "stringValue": "TEXT ROTATE",
+    "value": 0
+  },
+  "/Shape_Rotation_Offset": {
+    "min": 0,
+    "max": 500,
+    "value": 30
+  },
+  "/Pattern_Size_Rand": {"value": 0},
+  "/workspaceSize_label": {
+    "stringValue": "SET SIZE",
+    "value": 0
+  },
+  "/Stroke_label": {
+    "stringValue": "STROKE",
+    "value": 0
+  },
+  "/Fill_R_Buffer": {"text": "0"},
+  "/Gost_Mode_label": {
+    "stringValue": "BACK MODE",
+    "value": 0
+  },
+  "/oscIn": {"value": 0},
+  "/Pattern_Size_Rand_label": {
+    "stringValue": "SIZE RAND",
+    "value": 0
+  },
+  "/sin_color_label": {
+    "stringValue": "RGB SIN",
+    "value": 0
+  },
+  "/Stroke_RGB_Rand": {"value": 0},
+  "/audioPeak": {
+    "min": 0,
+    "max": 1,
+    "value": 1
+  },
+  "/Fill_Alpha": {
+    "min": 0,
+    "max": 255,
+    "value": 255
+  },
+  "/Stroke_Alpha": {
+    "min": 0,
+    "max": 255,
+    "value": 255
+  },
+  "/BackgroundGost": {
+    "min": 0,
+    "max": 30,
+    "value": 0
+  },
+  "/Shape_Rotation_label": {
+    "stringValue": "SHAPE ROTATE",
+    "value": 0
+  },
+  "/rand_ALPHA_label": {
+    "stringValue": "A RAND",
+    "value": 0
+  },
+  "/strokeWheel": {"arrayValue": []},
+  "/Pattern_CountY": {
+    "min": 1,
+    "max": 30,
+    "value": 5
+  },
+  "/oscIn_Descript": {
+    "stringValue": "Port 7000",
+    "value": 0
+  },
+  "/Stroke_RGB_Rand_label": {
+    "stringValue": "RGB RAND",
+    "value": 0
+  },
+  "/Trazo_Sin": {"value": 0},
+  "/Fill_B_Buffer": {"text": "255"},
+  "/Pattern_CountX": {
+    "min": 1,
+    "max": 30,
+    "value": 5
+  },
+  "/viewInfo_label": {
+    "stringValue": "VIEW INFO",
+    "value": 0
+  },
+  "/Text_Spray": {"value": 0},
+  "/Pattern_Rotation_Offset": {
+    "min": 0,
+    "max": 500,
+    "value": 30
+  },
+  "/Cursor": {"value": 0},
+  "/oscMonitor": {"value": 0},
+  "/Gost_Mode": {"value": 0},
+  "/Stroke_Alpha_Rand_label": {
+    "stringValue": "A RAND",
+    "value": 0
+  },
+  "/shape": {"value": 0},
+  "/Pattern_SizeX_Audio": {"value": 0},
+  "/oscIn_label": {
+    "stringValue": "OSC Input",
+    "value": 0
+  },
+  "/salvar_label": {
+    "stringValue": "SAVE JPG",
+    "value": 0
+  },
+  "/Cursor_label": {
+    "stringValue": "CURSOR",
+    "value": 0
+  },
+  "/Shape_Spray_Amplitud_Audio": {"value": 0},
+  "/Stroke_R_Buffer": {"text": "255"},
+  "/Pattern_Rotationn_label": {
+    "stringValue": "ROTATE",
+    "value": 0
+  },
+  "/Fill_Alpha_Audio": {"value": 0},
+  "/Text_Size_Sin": {"value": 0},
+  "/Pattern_Spacing_X_Audio": {"value": 0},
+  "/Shape_Stroke_Rand_label": {
+    "stringValue": "STROKE RAND",
+    "value": 0
+  },
+  "/Texto_Sin_Size_label": {
+    "stringValue": "SIZE SIN",
+    "value": 0
+  },
+  "/TEXTO_IN": {"text": "fUck tHE SyStEm"},
+  "/Pattern_Size_Sin_label": {
+    "stringValue": "SIZE SIN",
+    "value": 0
+  },
+  "/Text_Size": {
+    "min": 0,
+    "max": 300,
+    "value": 60
+  },
+  "/Pattern_Rotation_Offset_Audio": {"value": 0},
+  "/Shape_Size_Rand_label": {
+    "stringValue": "SIZE RAND",
+    "value": 0
+  },
+  "/Stroke_RGB_Sin_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.20000000298023224
+  },
+  "/Stroke_B_Buffer": {"text": "160"},
+  "/Shape_Size_Rand": {"value": 0},
+  "/audioGain": {
+    "min": 0,
+    "max": 10,
+    "value": 1
+  },
+  "/MODE_label": {
+    "stringValue": "Mode",
+    "value": 0
+  },
+  "/Erase_Size_label": {
+    "stringValue": "ERASE",
+    "value": 0
+  },
+  "/gridON_label": {
+    "stringValue": "GRID",
+    "value": 0
+  },
+  "/Shape_Rotation_Vel": {
+    "min": -0.5,
+    "max": 0.5,
+    "value": 0.19999998807907104
+  },
+  "/audioInON_label": {
+    "stringValue": "AUDIO IN",
+    "value": 0
+  },
+  "/Trazo_Width": {
+    "min": 0,
+    "max": 300,
+    "value": 10.000000953674316
+  },
+  "/Stroke_Alpha_Rand": {"value": 0},
+  "/Pattern_Rotation_Vel_Audio": {"value": 0},
+  "/Text_Rotation": {"value": 0},
+  "/Pattern_Rotation_Vel": {
+    "min": -0.5,
+    "max": 0.5,
+    "value": 0.19999998807907104
+  },
+  "/Fill_RGB_Rand": {"value": 0},
+  "/Pattern_Rotation": {"value": 0},
+  "/Text_Rotation_Offset_Audio": {"value": 0},
+  "/Pattern_Stroke_Width_Audio": {"value": 0},
+  "/Shape_Spray_label": {
+    "stringValue": "SPRAY",
+    "value": 0
+  },
+  "/Stroke_G_Buffer": {"text": "0"},
+  "/Shape_Rotation_Vel_Audio": {"value": 0},
+  "/Pattern_SizeY_Audio": {"value": 0},
+  "/Fill_RGB_Sin": {"value": 0},
+  "/Pattern_Stroke_Rand": {"value": 0},
+  "/Fill_label": {
+    "stringValue": "FILL",
+    "value": 0
+  },
+  "/workGrid": {"value": 0},
+  "/Fill_RGB_Sin_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.20000000298023224
+  },
+  "/bluePrintON": {"value": 0},
+  "/Pattern_Size_Sin": {"value": 0},
+  "/BackgroundGost_label": {
+    "stringValue": "TRAILS",
+    "value": 0
+  },
+  "/oscMonitor_label": {
+    "stringValue": "OSC Monitor",
+    "value": 0
+  },
+  "/Trazo_FX": {
+    "min": 0,
+    "max": 150,
+    "value": 0
+  },
+  "/bluePrint_label": {
+    "stringValue": "BLUE PRINT",
+    "value": 0
+  },
+  "/audioInON": {"value": 0},
+  "/Text_Size_Rand": {"value": 0},
+  "/Text_Size_Audio": {"value": 0},
+  "/Shape_Size_Sin_Rate": {
+    "min": 0,
+    "max": 2,
+    "value": 0.20000000298023224
+  },
+  "/Trazo_FX_Mode": {"value": 0},
+  "/Shape_Stroke_Width_Audio": {"value": 0},
+  "/fillWheel": {"arrayValue": []},
+  "/Fill_G_Buffer": {"text": "180"},
+  "/workspaceSize_Des_label": {
+    "stringValue": "(min 400px)",
+    "value": 0
+  },
+  "/Trazo_FX_Audio": {"value": 0},
+  "/Text_Size_Rand_label": {
+    "stringValue": "SIZE RAND",
+    "value": 0
+  },
+  "/Trazo_Width_Audio": {"value": 0},
+  "/Trazo_Rand_label": {
+    "stringValue": "WIDTH RAND",
+    "value": 0
+  },
+  "/Text_Rotation_Vel": {
+    "min": -0.5,
+    "max": 0.5,
+    "value": 0.19999998807907104
+  },
+  "/Save_label": {
+    "stringValue": "SAVE",
+    "value": 0
+  },
+  "/Erase_Mode_label": {
+    "stringValue": "MODE",
+    "value": 0
+  },
+  "/workGrid_label": {
+    "stringValue": "WORK GRID",
+    "value": 0
+  },
+  "/StatusPreset_label": {
+    "stringValue": "-",
+    "value": 0
+  },
+  "/Shape_Stroke_Rand": {"value": 0},
+  "/Trazo_Sin_label": {
+    "stringValue": "WIDTH SIN",
+    "value": 0
+  },
+  "/Text_Rotation_Vel_Audio": {"value": 0},
+  "/Pattern_Spacing_X": {
+    "min": 0,
+    "max": 150,
+    "value": 20.000001907348633
+  },
+  "/Stroke_RGB_Sin": {"value": 0},
+  "/Pattern_Size_Sin_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.20000000298023224
+  },
+  "/Pattern_Spacing_Y": {
+    "min": 0,
+    "max": 150,
+    "value": 20.000001907348633
+  },
+  "/MODE": {"value": 0},
+  "/Shape_Size_Sin_label": {
+    "stringValue": "SIZE SIN",
+    "value": 0
+  },
+  "/gridON": {"value": 0},
+  "/Stroke_Alpha_Audio": {"value": 0},
+  "/Pattern_Stroke_Rand_label": {
+    "stringValue": "STROKE RAND",
+    "value": 0
+  },
+  "/Shape_Size": {
+    "min": 0,
+    "max": 300,
+    "value": 50
+  },
+  "/viewInfo": {"value": 1},
+  "/Shape_Stroke_Width": {
+    "min": 0,
+    "max": 100,
+    "value": 5
+  },
+  "/Erase_Mode": {"value": 0},
+  "/aboutWindow": {"value": 0},
+  "/aboutWindow_label": {
+    "stringValue": "ABOUT",
+    "value": 0
+  },
+  "/H": {"text": "720"},
+  "/Shape_Rotation_Offset_Audio": {"value": 0},
+  "/Stroke_RGB_Sin_label": {
+    "stringValue": "RGB SIN",
+    "value": 0
+  },
+  "/Text_Size_Sin_Rate": {
+    "min": 0,
+    "max": 1,
+    "value": 0.20000000298023224
+  },
+  "/imagen": {"text": "TS_Still_001"},
+  "/Trazo_Cap_Mode_label": {
+    "stringValue": "CAP",
+    "value": 0
+  },
+  "/Fill_Alpha_Rand": {"value": 0},
+  "/Trazo_Rand": {"value": 0},
+  "/Text_Spray_label": {
+    "stringValue": "SPRAY",
+    "value": 0
+  }
+}
